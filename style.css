@@ -1,0 +1,43 @@
+body {
+	background-color: grey;
+}
+
+header{
+	background-color: lightgrey;
+	padding: 25px;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#nav {
+	background-color: lightgrey;
+	padding: 25px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#section {
+	background-color: lightgrey;
+	float: left;
+	text-align: center;
+	width: 35%;
+	height: 200px;
+	padding: 25px;
+	margin-top: 10px;
+	margin-left: 100px;
+
+}
+
+#aside {
+	background-color: lightgrey;
+	float: left;
+	text-align: center;
+	width: 35%;
+	height: 200px;
+	padding: 25px;
+	margin-left: 10px;
+	
+}
