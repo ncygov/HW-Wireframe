@@ -50,22 +50,22 @@ div {
 
 #h1 {
 	background-color: #ebebeb;
-	text-align: center;
-	float: inherit;
-	width: 440px;
-	height: 40px;
-	margin-left: 30px;
-	margin-top: 70px;
+    text-align: center;
+    float: inherit;
+    width: 440px;
+    height: 40px;
+    margin-left: 22px;
+    margin-top: 24px;
 
 }
 #p {
 	background-color: #ebebeb;
-	text-align: center;
-	float: inherit;
-	width: 440px;
-	height: 40px;
-	margin-left: 30px;
-	margin-top: 10px;
+    text-align: center;
+    float: inherit;
+    width: 440px;
+    height: 40px;
+    margin-left: 22px;
+    margin-top: 10px;
 
 }
 #article {
